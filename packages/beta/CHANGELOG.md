@@ -5,6 +5,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## 1.0.2 (2019-02-12)
 
+
+### Bug Fixes
+
+* typo fix ([380cd87](https://github.com/bharatyerra/lerna-conventional-commits-example/commit/380cd87))
+
+
+
+
+
+## 1.0.2 (2019-02-12)
+
 **Note:** Version bump only for package @my-scope/beta
 
 
